@@ -1,2 +1,2 @@
-# report_generation
+# submodule_example
 Dummy repo for testing git submodule
